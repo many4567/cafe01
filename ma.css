@@ -1,0 +1,23 @@
+.navbar{
+    margin: 0;
+    padding: 20px;
+}
+.bg-color{
+    background-color: rgb(129, 65, 20);
+    padding-top: 20px ;
+}
+.card{
+    width: 18rem;
+ justify-content: center;
+ align-items: center;
+
+}
+.card:hover{
+    align-items: center;
+    transform: scale(1.1);
+    background-color: rgb(245, 176, 176);
+    color:red;
+}
+.container-fluid{
+    background: rgb(129, 65, 20);
+}
